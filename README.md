@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/ketannegi/mentor-huddle-landing-page.git)
-- Live Site URL: [github]( https://ketannegi.github.io/mentor-huddle-landing-page/)
+- Live Site URL: [github](https://ketannegi.github.io/mentor-huddle-landing-page/)
 
 ## My process
 
