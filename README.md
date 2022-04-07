@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo]()
-- Live Site URL: [github]()
+- Solution URL: [github repo](https://github.com/ketannegi/mentor-huddle-landing-page.git)
+- Live Site URL: [github]( https://ketannegi.github.io/mentor-huddle-landing-page/)
 
 ## My process
 
@@ -52,7 +52,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Ketannegi](https://www.frontendmentor.io/profile/ketannegi)
 
 ## Acknowledgments
